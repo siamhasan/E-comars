@@ -1,0 +1,30 @@
+.bye-now{
+    background-image:linear-gradient(to bottom,#d6c 100%);
+    color:black;
+    border-radius: 12px;
+    padding: 5px 20px;
+    
+    
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100px;
+     
+}
+.col{
+    box-shadow: 10px 0px 10px grey;
+}
+
+.dol{
+    width: 200px;
+    
+}
+
+.container1{
+    width: 400px;
+    box-shadow: 10px 0px 10px grey;
+    
+    
+}
